@@ -1,10 +1,10 @@
-# Unified UPI Cashback & Coupon Aggregator 💳📊
+# PerkVault - Unified UPI Cashback & Coupon Aggregator 💳📊
 
 A real-time full-stack fintech web application that centralizes UPI cashback rewards and coupons from platforms like Google Pay, Paytm, and PhonePe into a single intelligent dashboard.
 
 ##  Problem
 
-UPI rewards are fragmented across apps, expire unnoticed, and lack centralized visibility — leading to unclaimed cashback and inefficient redemption.
+UPI rewards are fragmented across apps, expire unnoticed, and lack centralized visibility which lead to unclaimed cashback and inefficient redemption.
 
 ##  Solution
 
